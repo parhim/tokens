@@ -37530,12 +37530,4 @@ export const tokens = [
       website: "https://gruesomegoblins.com/",
     },
   },
-] as {
-  address: string;
-  symbol: string;
-  name: string;
-  decimals: number;
-  logoURI: string;
-  tags: string[];
-  extensions: any;
-}[];
+];
